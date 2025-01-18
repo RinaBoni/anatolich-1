@@ -3,3 +3,5 @@ pandas
 matplotlib
 nashpy
 skfuzzy
+seaborn
+scipy

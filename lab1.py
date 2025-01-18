@@ -71,7 +71,7 @@ def simulated_annealing():
 results, f_values = simulated_annealing()
 
 # Построение трехмерного графика динамики значения целевой функции
-fig = plt.figure(figsize=(10, 8))
+fig = C.figure(figsize=(10, 8))
 ax = fig.add_subplot(111, projection='3d')
 
 # Отображаем итерации, x1 и x2
